@@ -1,0 +1,7 @@
+{
+  "name": "CCD Retro Christmas Camera",
+  "description": "A festive web app that transforms your ordinary photos into nostalgic, Polaroid-style Christmas portraits with CCD camera textures and blurry holiday lights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
